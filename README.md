@@ -1,5 +1,5 @@
 # zim_removelines_customtool
-Removes lines and adds a space at the end of each line from text pasted from documents such as .pdf that include manual line breaks
+Removes lines and adds a space at the end of each line from text pasted from documents such as .pdf that include manual line breaks. Posted on: https://github.com/jaap-karssenberg/zim-wiki/wiki/Remove-line-breaks-custom-tool
 
 
 This is how to set up this custom tool on Zim Wiki: https://github.com/zim-desktop-wiki/zim-desktop-wiki 
