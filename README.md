@@ -10,7 +10,7 @@ There are two options. The first is to change highlighted text to remove line br
 
 === HIGHLIGHT REMOVE LINE BREAKS ===
 
-1. Download the newest Python 3 if you don't have it already: https://www.python.org/downloads/
+1. Download the newest Python if you don't have it already: https://www.python.org/downloads/
 2. Open a text document and paste the following code:
 
 ```
@@ -27,11 +27,19 @@ print(formatted)
 5. A pop up will appear where you will click the "+" button.
 6. Input the following:
 Name: Remove Line Breaks
+
 Description: Removes line breaks on highlight
-Command: "C:\Program Files\Python311\python.exe" "C:\Users\USERNAME\Documents\PORTABLE apps\Zim\share\zim\custom tools\removelinebreaks.py" %T 
+
+Command: "C:\Program Files\Python37\python.exe" "C:\Users\USERNAME\Documents\PORTABLE apps\Zim\share\zim\custom tools\removelinebreaks.py" %T 
+
+The first quotation specifies the location of python, the second location specifies wherever you place your removelinebreaks.py. 
+
 Icon: leave or click it to change to whatever you want
+
 Command line does not modify data: unchecked
+
 Output should replace current selection: checked
+
 Show in toolbar: checked (optional)
 
 (Under command, the first part is wherever your python.exe was installed onto in step one. The second is wherever you saved your .py python script. 
